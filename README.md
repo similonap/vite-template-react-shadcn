@@ -67,3 +67,13 @@ export default tseslint.config([
   },
 ])
 ```
+
+## Quick start
+
+If you want to use the template, you can run the following command:
+
+```sh
+npx degit similonap/vite-template-react-shadcn react-vite-shadcn
+```
+
+This copies the repo into the folder `react-vite-shadcn`. You can change the last part to use a different folder name.
